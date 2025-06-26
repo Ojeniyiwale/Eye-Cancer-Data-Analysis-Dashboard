@@ -1,4 +1,4 @@
-![Task 34B Screenshot](https://github.com/user-attachments/assets/896ec947-2b65-4b07-8dec-ff9b3e85a591)
+![Eye Cancer Data Analysis Dashboard](https://github.com/user-attachments/assets/a8892074-6323-4527-92a0-b863098558a3)
 
 # Eye-Cancer-Data-Analysis-Dashboard
 # 🧠 Eye Cancer Insights Dashboard
@@ -67,12 +67,10 @@ By applying slicing, filtering, and custom DAX measures, this dashboard transfor
 - **Source**: Simulated dataset (5,000 patients)
 - **Fields**: Age, Gender, Cancer Type, Stage, Treatment Type, Outcome Status, Genetic Markers, Country, etc.
 
-> _Note: This dataset is anonymized and used for educational/analytical purposes only._
-
-
 ## 📷 Dashboard Preview
 
-![Task 34B Screenshot](https://github.com/user-attachments/assets/70b6d5cb-b2ec-4b50-a1dd-b79cdac0fdef)
+![Eye Cancer Data Analysis Dashboard](https://github.com/user-attachments/assets/62f6d4d8-58ee-42f2-94cd-3405d93a370d)
+
 
 > Power BI dashboard showing interactive visuals on cancer types, treatments, demographics, and survival outcomes.
 
